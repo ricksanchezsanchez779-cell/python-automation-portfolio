@@ -5,6 +5,10 @@ venv/
 
 # Artefatos gerados rodando os demos
 *.csv
-!requirements.txt
 *.pdf
 demo_files/
+
+# Material interno - nunca publicar
+propostas/
+pesquisa/
+dealwork/
