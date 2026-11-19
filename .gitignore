@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Artefatos gerados rodando os demos
+*.csv
+!requirements.txt
+*.pdf
+demo_files/
